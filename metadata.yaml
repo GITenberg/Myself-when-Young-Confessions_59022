@@ -1,5 +1,8 @@
 _repo: Myself-when-Young-Confessions_59022
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59022-h/images/cover.jpg
 creator:
   author:
     agent_name: Waugh, Alec (Alexander Raban)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8306
     wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59022#Myself-when-Young-Confessions
 gutenberg_issued: '2019-03-06'
 gutenberg_type: Text
 identifiers:
